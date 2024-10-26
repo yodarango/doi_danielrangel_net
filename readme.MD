@@ -1,6 +1,6 @@
 # DOI
 
-Self-hosted DOI system to preserve locality of my academic papers. The format followed to create them is <MMDDYYYY><Alphabetical sequence (for posts published the same day)><Language code>. Example -> July 2nd, 1977 (A) Italian -> `02071977AITA`
+Self-hosted DOI system to preserve locality of my academic papers. The format followed to create them is <MMDDYYYY><Alphabetical sequence (for posts published the same day)><Language ISO-2 code>. Example -> July 2nd, 1977 (A) Italian -> `02071977AITA`
 
 ## DEV
 

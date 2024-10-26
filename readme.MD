@@ -6,3 +6,7 @@ Self-hosted DOI system to preserve locality of my academic papers. The format fo
 
 1. `GOOS=linux GOARCH=amd64 go build -o doi_danielrangel_net`
 2. `scp ./doi.json, doi_danielrangel_net user@<pp>:/var/www/repos/doi_danielrangel_net/app`
+
+## TODO
+
+- Auto-generate the doi.json file from my posts project
